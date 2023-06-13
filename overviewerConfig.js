@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1686557145",
+        "cacheTag": "1686643907",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world",
-            "last_rendertime": 1684879957,
+            "last_rendertime": 1686578996,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
